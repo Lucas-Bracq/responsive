@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "Nunito-Regular";
+
+    src: url("../FONTS/Nunito-Regular.woff") format("woff"); /* Modern Browsers */
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "AdventPro";
+
+    src: url("../FONTS/adventpro-light-webfont.woff") format("woff"); /* Modern Browsers */
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+.inner{
+    width: 800px;
+    margin: 0 auto;
+}
+
